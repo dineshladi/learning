@@ -1,4 +1,4 @@
-# learning
+# ML/DS Learning Path 2021
 
 ## Tools
 ### Python
@@ -33,7 +33,7 @@
 
 ## Reinforcement Learning
 - [ ] [Course: DeepMind & UCL's Introduction to Reinforcement Learning by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
-  - [ ] Lecture 1: Introduction to Reinforcement Learning `1:28:13`
+  - [X] Lecture 1: Introduction to Reinforcement Learning `1:28:13`
   - [ ] Lecture 2: Markov Decision Process `1:42:05`
   - [ ] Lecture 3: Planning by Dynamic Programming `1:39:09`
   - [ ] Lecture 4: Model-Free Prediction `1:37:02`
