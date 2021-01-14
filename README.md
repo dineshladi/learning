@@ -3,6 +3,18 @@
 ## Tools
 ### Python
 - [ ] [Book: High Performance Python by Ian Ozsvald](https://learning.oreilly.com/library/view/high-performance-python/9781492055013/)
+    - [ ] Chapter 1: Understanding Performant Python
+    - [ ] Chapter 2: Profiling to Find Bottlenecks
+    - [ ] Chapter 3: Lists and Tuples
+    - [ ] Chapter 4: Dictionaries and Sets
+    - [ ] Chapter 5: Iterators and Generators
+    - [ ] Chapter 6: Matrix and Vector Computation
+    - [ ] Chapter 7: Compiling to C
+    - [ ] Chapter 8: Asynchronous I/O
+    - [ ] Chapter 9: The multiprocessing Module
+    - [ ] Chapter 10: Clusters and Job Queues
+    - [ ] Chapter 11: Using Less RAM
+    - [ ] Chapter 12: Lessons from the Field
 ### Docker
 
 ## Machine Learning
