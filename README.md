@@ -10,6 +10,14 @@
 
 ## Interpretability/Explainability
 - [ ] [Book: Interpretable Machine Learning by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+    - [ ] Introduction
+    - [ ] Interpretability
+    - [ ] Datasets
+    - [ ] Interpretable Models
+    - [ ] Model-Agnostic Methods
+    - [ ] Example-Based Explainations
+    - [ ] Neural Network Interpretation
+    - [ ] A Look into the Crystal Ball
 - [ ] [Book: Explanatory Model Analysis by Przemyslaw Biecek](http://ema.drwhy.ai/)
 - [ ] [Paper: Responsible Machine Learning with Interactive Explainability and Fairness in Python](https://arxiv.org/abs/2012.14406v1)
 - [ ] [Tutorial: Explainability for Natural Language Processing by Shipi Dhanorkar, AACL 2020](https://www2.slideshare.net/YunyaoLi/explainability-for-natural-language-processing)
@@ -17,6 +25,22 @@
 
 ## Deep Learning
 - [ ] [Book: Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+    - [ ] Chapter 1: Introducing deep learning and the PyTorch Library
+    - [ ] Chapter 2: Pretrained networks
+    - [ ] Chapter 3: It starts with a tensor
+    - [ ] Chapter 4: Real-world data representation using tensors
+    - [ ] Chapter 5: The mechanics of learning
+    - [ ] Chapter 6: Using a neural network to fit the data
+    - [ ] Chapter 7: Telling birds from airplanes: Learning from images
+    - [ ] Chapter 8: Using convolutions to generalize
+    - [ ] Chapter 9: Using PyTorch to fight cancer
+    - [ ] Chapter 10: Combining data sources into a unified dataset
+    - [ ] Chapter 11: Training a classification model to detect suspected tumors
+    - [ ] Chapter 12: Improving training with metrics and augmentation
+    - [ ] Chapter 13: Using segmentation to find suspected nodules
+    - [ ] Chapter 14: End-to-end nodule analysis, and where to go next
+    - [ ] Chapter 15: Deploying to production
+- [ ] [Course: Full Stack Deep Learning | UC Berkeley](https://spring21.fullstackdeeplearning.com/)
 - [ ] [Book: Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 
 ## NLP
@@ -29,7 +53,18 @@
 
 ## MLOps
 - [ ] [Book: Introducing MLOps by Mark Treveil](https://pages.dataiku.com/oreilly-introducing-mlops)
-- [ ] [Course: Full Stack Deep Learning | UC Berkeley](https://spring21.fullstackdeeplearning.com/)
+    - [X] Why Now and Challenges
+    - [X] People of MLOps
+    - [X] Key MLOps Features
+    - [X] Developing Models
+    - [X] Preparing for Production
+    - [X] Deploying to Production
+    - [X] Monitoring and Feedback Loop
+    - [ ] Model Goverance
+    - [ ] MLOps in Practice: Consumer Credit Risk Management
+    - [ ] MLOps in Practice: Marketing Recommendation Engines
+    - [ ] MLOps in Practice: Consumption Forecast
+
 
 ## Reinforcement Learning
 - [ ] [Course: DeepMind & UCL's Introduction to Reinforcement Learning by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
