@@ -53,6 +53,19 @@
     - [ ] Chapter 14: End-to-end nodule analysis, and where to go next
     - [ ] Chapter 15: Deploying to production
 - [ ] [Course: Full Stack Deep Learning | UC Berkeley](https://spring21.fullstackdeeplearning.com/)
+    - [ ] Lecture 1: Fundamentals of Deep Learning
+    - [ ] Lecture 2: Convolutional Neural Networks and Computer Vision Applications
+    - [ ] Lecture 3: Recurrent Neural Networks and Natural Language Applications
+    - [ ] Lecture 4: Transfer Learning and Transformers
+    - [ ] Lecture 5: Machine Learning Projects
+    - [ ] Lecture 6: Infrastructure / Tooling
+    - [ ] Lecture 7: Troubleshooting DNNs
+    - [ ] Lecture 8: Data Management
+    - [ ] Lecture 9: AI Ethics
+    - [ ] Lecture 10: Testing & Explainability
+    - [ ] Lecture 11: Deployment & Monitoring
+    - [ ] Lecture 12: Research Directions
+    - [ ] Lecture 13: ML Teams and Startups
 - [ ] [Book: Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 
 ## NLP
